@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 # Decentralized Charity System(DonorChain)
 
 A crowfunding based charity system which uses underlying blockchain technology that targets for direct connection between beneficiaries and donors more securely.
